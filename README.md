@@ -5,4 +5,4 @@
 ## Instrução de uso
 
 - O uso é simples, basta inserir de qual á qual ID_pokemon deseja buscar.
-- O programa buscará as informações e o arquivo está disponivel na mesma para do arquivo de excecução. 
+- O programa buscará as informações e agrupará seguindo as colunas informadas e o arquivo está disponivel na mesma para do arquivo de excecução. 
